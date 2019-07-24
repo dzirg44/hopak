@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/hopak/server/models"
-	"github.com/hopak/server/utils"
+	"github.com/dzirg44/hopak/server/models"
+	"github.com/dzirg44/hopak/server/utils"
 )
 
 // GetListOfPosts returns list of posts for a specific user

@@ -3,7 +3,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/hopak/server/models"
+	"github.com/dzirg44/hopak/server/models"
 	"github.com/dgrijalva/jwt-go"
 )
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/hopak/server/models"
-	"github.com/hopak/server/utils"
+	"github.com/dzirg44/hopak/server/models"
+	"github.com/dzirg44/hopak/server/utils"
 	"github.com/jinzhu/gorm"
 )
 

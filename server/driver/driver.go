@@ -3,8 +3,8 @@ package driver
 import (
 	"fmt"
 
-	"github.com/hopak/server/config"
-	"github.com/hopak/server/models"
+	"github.com/dzirg44/hopak/server/config"
+	"github.com/dzirg44/hopak/server/models"
 	_ "github.com/go-sql-driver/mysql" // this is import required for gorm
 	"github.com/jinzhu/gorm"
 )

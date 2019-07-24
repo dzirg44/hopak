@@ -12,8 +12,8 @@ import (
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/go-chi/chi"
 
-	"github.com/hopak/server/models"
-	"github.com/hopak/server/utils"
+	"github.com/dzirg44/hopak/server/models"
+	"github.com/dzirg44/hopak/server/utils"
 	"golang.org/x/crypto/bcrypt"
 )
 
